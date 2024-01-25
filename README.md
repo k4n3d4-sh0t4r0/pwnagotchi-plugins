@@ -29,7 +29,7 @@ main.plugins.gps-plus.enabled = true
 main.plugins.gps-plus.speed = 4800
 main.plugins.gps-plus.device = "/dev/ttyUSB0"
 main.plugins.gps-plus.position = "122,70"
-main.plugins.memtemp-plus.linespacing = 12 
+main.plugins.gps-plus.linespacing = 12 
 ```
 
 ## memtemp-plus
